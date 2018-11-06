@@ -9,7 +9,7 @@ const txData = {
     to: '0x3535353535353535353535353535353535353535',
     value: '0xde0b6b3a7640000',
     data: '',
-    v: '0x1b', // Ethereum mainnet chainID 27 1b or 28 1c(测试链和主链不同,rinkeby为ox2b,如不懂可以提issue)
+    v: '0x1b', // Ethereum mainnet chainID 27 1b or 28 1c(测试链和主链不同,rinkeby为0x2b,如不懂可以提issue)
     r: 0,
     s: 0
   };
