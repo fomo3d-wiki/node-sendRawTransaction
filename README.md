@@ -1,5 +1,7 @@
 # node-sendRawTransaction
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/fomo3d-wik)
+
 ### 1、区块链离线签名：（具体用法）
 
 ```JavaScript
